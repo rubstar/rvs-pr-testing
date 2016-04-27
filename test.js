@@ -1,6 +1,6 @@
 var t = "hello";
 
-var selec = '[data-dikkemik';
+var selec = '[data-dikkemik]';
 
 
 if (t === 'hello') {
@@ -8,5 +8,5 @@ if (t === 'hello') {
 }
 
 if (true) {
-  var sjaak_de_man = 'false';
+  var sjaakDeman = 'false';
 }
