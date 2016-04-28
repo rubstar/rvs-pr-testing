@@ -5,7 +5,7 @@ if (t == "hello') {
 }
 
 if(true) {
-    let isthisfalse = null;
+    let isthisfalse = null ;
 }
 
 var thisiswrong = 'variable'
@@ -14,7 +14,7 @@ if (true) {
 	if(true) {
 		if(true) {			if(true) {
 	  console.log('false')
-			}
+		}
 		}
 	}
 }
