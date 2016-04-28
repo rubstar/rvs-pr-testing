@@ -1,6 +1,6 @@
 var t = "hello";
 
-var selec = '[data-dikkemik]';
+var selec = '[data-attr]';
 var doofus = true;
 
 if (t == 'hello') {
@@ -8,7 +8,7 @@ if (t == 'hello') {
 }
 
 if (true) {
-  var sjaakDeman = false;
+  var indentfail = true;
 }
 
 if (true) {
@@ -16,5 +16,5 @@ if (true) {
 }
 
 function that(){
-      return 'booyah'
+          return 'booyah'
 }
