@@ -12,9 +12,8 @@ var thisiswrong = 'variable'
 
 if (true) {
 	if(true) {
-		if(true) {
-			if(true) {
-			  console.log('false')
+		if(true) {			if(true) {
+	  console.log('false')
 			}
 		}
 	}
