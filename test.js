@@ -8,5 +8,5 @@ if (true) {
 var donothing = false;
 }
 
-var 'thisisnoth
+var 'thisisnoth'
 
