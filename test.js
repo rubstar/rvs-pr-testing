@@ -1,7 +1,7 @@
 var t = "hello";
 
-if (t == "hello') {
-    console.log('ok');
+if (t == "hello") {
+ console.log('ok');
 }
 
 if (true) {
