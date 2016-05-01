@@ -1,9 +1,5 @@
 var t = "hello";
 
 if (t === "hello") {
-    console.log('ok');
+    var OK = 'OKAYY';
 }
-
-var donothing = false;
-
-
