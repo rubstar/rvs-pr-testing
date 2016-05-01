@@ -1,12 +1,12 @@
-var t = "hello";
+  var t = "hello";
+var b = null
 
 if (t == "hello") {
  console.log('ok');
 }
 
 if (true) {
-var donothing = false;
+var donothing = false
 }
 
-var 'thisisnoth'
 
