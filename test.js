@@ -1,12 +1,9 @@
-  var t = "hello";
-var b = null
+var t = "hello";
 
-if (t == "hello") {
- console.log('ok');
+if (t === "hello") {
+    console.log('ok');
 }
 
-if (true) {
-var donothing = false
-}
+var donothing = false;
 
 
