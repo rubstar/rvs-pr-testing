@@ -1,5 +1,11 @@
 var t = "hello";
 
-if (t === "hello') {
-    console.log('ok');
+if (t === "hello") {
+    var OK = 'OKAYY';
 }
+
+function showIt() {
+    return OK;
+}
+
+showIt();
